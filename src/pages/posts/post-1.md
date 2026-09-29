@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mi primera publicación en el blog'
 pubDate: 2026-09-29
 description: 'Este es la primera publicación de mi nuevo blog Astro.'
-author: 'Alumno de Astro'
+author: 'Diego Beniel'
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'El logotipo de Astro sobre un fondo oscuro con un brillo rosado.'
